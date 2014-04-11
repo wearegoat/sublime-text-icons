@@ -10,13 +10,8 @@ c) Close the info window
 
 d) Go to your Applications folder (or wherever your Sublime Text application is saved)
 
-e) Select Sublime Text, right click and "Get Info" (⌘ + I)
+e) Select Sublime Text, right click and "Show Package Contents"
 
-f) Click the icon and paste the copied icon from your clipboard (⌘ + V)
+f) Go to Contents > Resources
 
-g) Close the info window
-
-
-
-For more thorough directions, see Apple's website at:
-http://www.apple.com/support/mac101/customize/6/
+g) Paste the icons you wish to change into this folder and overwrite the old ones
