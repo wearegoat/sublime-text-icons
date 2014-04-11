@@ -8,6 +8,17 @@ To change the icons of your filetypes go to Applications and right click on Subl
 To change the icon for Sublime Text just open up the info panel of the SublimeText-icon file, click on the icon and press ⌘+C, go to applications and open up the into panel of Sublime Text, click on the icon and press ⌘+V.
 
 If you want us to create an icon for a file that is not yet in the list then please submit an issue and we'll create it as soon as we have the time.
+
+Current list of file icons:
+COFFEE
+CSS
+HTML
+JS
+JSON
+MARKDOWN
+PHP
+SCSS
+
  
 ![App icon](https://m1.behance.net/rendition/modules/107270665/disp/07fcb7f2d16be3c067dd5cc7e4743e1f.jpg)
 ![In dock] (https://m1.behance.net/rendition/modules/107102415/hd/c72f1b83ba0978cb08915627f34edeba.png)
